@@ -1,3 +1,9 @@
+# Unmaintained Repository
+
+Unmaintained repository. Development moved to: https://github.com/nordic-institute/REST-adapter-service
+
+REST-adapter-service is now actively developed by the Nordic Institute for Interoperability Solutions (NIIS) The original REST-adapter-service codebase here will be kept for archive purposes.
+
 # Joint X-Road Rest Adapter Service development
 
 This repository will be the home of REST/JSON support solutions for [X-Road](https://github.com/ria-ee/X-Road). The mandate for joint development is based on [the MoU which was signed by Katainen and Ansip](https://github.com/vrk-kpa/REST-adapter-service/blob/master/MoU-Ansip-Katainen.md). The development and the repository are shared between Estonia and Finland. Below is a list of people who initiated the co-operation in a Skype meeting which was held 18.12.2014.
